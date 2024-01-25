@@ -424,6 +424,10 @@ article li {
   box-shadow: 2px 2px 0px 4px rgba(240, 240, 240, 0.5),
     -2px -2px 0px 0px var(--light-accent-color);
 }
+
+#experience-wrapper {
+
+}
 .tags {
   display: flex;
   flex-direction: column;
@@ -445,6 +449,7 @@ article li {
   width: 50%;
   margin: 1em auto;
 }
+
 
 #links-section > div {
   height: 1em;
